@@ -24,11 +24,11 @@ export default function Profile() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
             <div>
               <span className="text-gray-500">Возраст:</span>
-              <span className="ml-2 text-gray-800 font-medium">28 лет</span>
+              <span className="ml-2 text-gray-800 font-medium">19 лет</span>
             </div>
             <div>
               <span className="text-gray-500">Город:</span>
-              <span className="ml-2 text-gray-800 font-medium">Москва</span>
+              <span className="ml-2 text-gray-800 font-medium">Сочи</span>
             </div>
             <div>
               <span className="text-gray-500">Email:</span>
